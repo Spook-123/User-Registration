@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "834922923243",
+    "firebase_url": "https://examplekotlin-633c0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "examplekotlin-633c0",
+    "storage_bucket": "examplekotlin-633c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834922923243:android:7986a2a1bba79e6f396aae",
+        "android_client_info": {
+          "package_name": "com.sumeet.realtimefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf5HUYPoyOSZ9DY2LwKmmL6Lpg6Pi9xq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
